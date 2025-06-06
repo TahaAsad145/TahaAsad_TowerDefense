@@ -1,0 +1,19 @@
+# Ignore Visual Studio cache
+.vs/
+
+# Ignore Unity build cache
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# Ignore user settings
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
